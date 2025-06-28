@@ -11,7 +11,14 @@
     {
       "name": "site",
       "title": "site",
-      "subtitle": "网址导航",
+      "subtitle": "搜索你的网址收藏",
+      "description": "搜索你的网址收藏",
+      "mode": "view"
+    },
+    {
+      "name": "site-add",
+      "title": "site-add",
+      "subtitle": "添加新网址到收藏",
       "description": "",
       "mode": "view"
     }
